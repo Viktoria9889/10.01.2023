@@ -1,0 +1,16 @@
+body {
+  background-color: aquamarine;
+}
+
+.test1 {
+  font-size: 40px;
+  color: rgb(0, 20, 37);
+  font-weight: 600;
+}
+
+.main {
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}/*# sourceMappingURL=main.css.map */
